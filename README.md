@@ -7,3 +7,6 @@ I am using Python with sklearn and experimenting with the following models:
 - Random Forest Regressor
 - Support Vector Regressor
 - XGBoost Regressor
+
+
+File predict_house_prices.ipynb shows how to work with pandas, do some feature engineering and how to prepare models.
